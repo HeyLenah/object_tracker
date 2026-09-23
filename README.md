@@ -3,7 +3,7 @@ Real-time object tracking using the CSRT algorithm. The user draws a bounding bo
 
 ## Implementation Details
 
-This tracker uses OpenCV's CSRT algorithm, chosen for its tracking accuracy while still running fast enough to meet the real-time requirement. It learns what the selected object looks like directly from the single bounding box drawn by the user, then locates it in each subsequent frame.
+This tracker uses OpenCV's CSRT algorithm. It is chosen for its tracking accuracy while still running fast enough to meet the real-time requirement. It learns what the selected object looks like from a single bounding box drawn by the user, then locates it in each frame.
 
 ## Setup
 
