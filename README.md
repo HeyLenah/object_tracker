@@ -7,8 +7,7 @@ This tracker uses OpenCV's CSRT algorithm, chosen for its tracking accuracy whil
 
 ## Setup
 
-1. Clone this repository.
-2. Install the required dependency: `pip install -r requirements.txt`
+Clone this repository and install the required dependency: `pip install -r requirements.txt`
 
 
 
